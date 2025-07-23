@@ -1,4 +1,4 @@
-<img src="./assets/ChatGPT Image Jul 23, 2025, 10_12_59 AM.png" alt="banner" width="100%" height="100px" /># 👋 Hello, I'm Ramani Divyesh
+<img src="./assets/ChatGPT Image Jul 23, 2025, 10_12_59 AM.png" alt="banner" width="100%" /># 👋 Hello, I'm Ramani Divyesh
 
 🚀 I'm a passionate Full Stack Developer with a strong focus on building modern, scalable, and user-friendly web and mobile applications. I specialize in both frontend and backend development, with a deep understanding of end-to-end software architecture.
 
